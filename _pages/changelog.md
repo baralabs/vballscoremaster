@@ -14,7 +14,9 @@ Don't forget to leave your review of the app and help other users and families d
 #### What's New
 Several improvements have been made in this version:
 - Support for iOS Dark Mode on iPhone and iPad. The app will automatically follow your Dark Mode settings, no need to change the colors in the Setting tab anymore! Vibrant colors and deep blacks looks fantastic on the new screens.
-- Removed all Google analytics.
+- **Removed all Google analytics.**. Now, you're in control of the data you enter and use in the app!
+- [Changes to Privacy Policy](/privacypolicy)
+#### Defect Fixes
 - Bugs quashed leaving the app leaner and faster than ever before!
 
 <br> 
@@ -72,7 +74,8 @@ Don't forget that every new version pushes existing reviews into the background.
 - Have you ever started counting your player's Actions and then decided to change Action Names? After you change names you see that the counter is still counting the old Action. Now you can long-press the Action Name count and reset it to zero!
 
 <br>
---------------
+
+________
 <br>
 
 ### `Big Update!`
