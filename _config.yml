@@ -5,9 +5,7 @@ page_title                                :                                     
 ios_app_id                                : 886670213                                 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link                             : https://apps.apple.com/us/app/vball-scoremaster/id886670213 # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
-playstore_link                            :                                           # Enter Google Play Store URL.
-presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
-                                                                                      # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
+
 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
@@ -23,19 +21,16 @@ your_name                                 : BaraLabs
 your_link                                 :                      
 your_city                                 : US                                
 email_address                             : support@baralabs.com
-facebook_username                         :                                           
-instagram_username                        : 
 twitter_username                          : baralabs
-github_username                           : 
-youtube_username                          :
 
 
 
-# Feature List                            Edit, add or remove features to be presented.
+# Ratings & Review                           Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title                                 : 3.95/4 *'s
+    description                           : Exactly what you need with nothing you don’t. This app is perfect. 
+    description                           : It isn’t over-engineered and contains all the features you need to keep track of scores across multiple games, update family with score changes and even create your own custom category to track things like poor calls and terrible serves 😂. After downloading almost every free app out there I ponied up the $.99 and couldn’t be happier with my purchase. Great job
     fontawesome_icon_name                 : magic
     
   - title                                 : iPhone Device Preview
