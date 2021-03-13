@@ -37,9 +37,9 @@ features                                  :
     description                           : This app is awesome! I use it at all of my kids volleyball matches. I can always keep track of the score with the other parents.
     fontawesome_icon_name                 : volleyball-ball
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : 5 ⭐️'s
+    description                           : Super easy to use, works great! I use this to keep score at my son's games and text stats to update his father.
+    fontawesome_icon_name                 : sms
 
   - title                                 : Automatic Icon and Metadata
     description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
