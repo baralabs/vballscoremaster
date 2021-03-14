@@ -45,9 +45,9 @@ features                                  :
     description                           : You pick the actions to track the app includes those in your text messages.
     fontawesome_icon_name                 : running
 
-#  - title                                 : Dark Mode Support
-#    description                           : COLOR themes, choose from one of the three included themes: regular, dark, and colorful!
-#    fontawesome_icon_name                 : adjust
+  - title                                 : Dark Mode Support
+    description                           : COLOR themes, choose from one of the three included themes: regular, dark, and colorful!
+    fontawesome_icon_name                 : adjust
 
 
 # Theme Settings
@@ -59,7 +59,7 @@ topbar_title_color                        : "#ffffff"
 
 
 
-body_background_color                     : "#3D0707"                                 # Original #ffffff
+body_background_color                     : "#ffffff"                                 # Original #ffffff
 
 link_color                                : "#1d63ea"                                 # Original #1d63ea
 
@@ -80,7 +80,7 @@ footer_text_color                         : "#666666"
 
 cover_image                               : assets/headerimage.png                      # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#363b3d"
-cover_overlay_transparency                : 0.7
+cover_overlay_transparency                : 0.8
 
 
 
