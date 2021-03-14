@@ -51,6 +51,8 @@ features                                  :
 
 
 # Theme Settings
+device_color                              : yellow                                     # Set to: blue, black, yellow, coral or white.
+
 topbar_color                              : "#363b3d"
 topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
@@ -59,7 +61,6 @@ cover_image                               : assets/headerimage.png              
 cover_overlay_color                       : "#363b3d"
 cover_overlay_transparency                : 0.7
 
-device_color                              : yellow                                     # Set to: blue, black, yellow, coral or white.
 
 body_background_color                     : "#3D0707"                                 # Original #ffffff
 
