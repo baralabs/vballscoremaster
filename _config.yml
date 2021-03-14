@@ -51,7 +51,7 @@ features                                  :
 
 
 # Theme Settings
-device_color                              : yellow                                     # Set to: blue, black, yellow, coral or white.
+device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
 topbar_color                              : "#363b3d"
 topbar_transparency                       : 0.1
