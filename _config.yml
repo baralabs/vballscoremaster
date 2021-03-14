@@ -42,7 +42,7 @@ features                                  :
     fontawesome_icon_name                 : running
 
   - title                                 : Dark Mode Support
-    description                           : COLOR themes, choose from one of the three included themes: regular, dark, and colorful!
+    description                           : COLOR themes, choose from one of the three included themes: regular, dark, and colorful.
     fontawesome_icon_name                 : adjust
 
 
