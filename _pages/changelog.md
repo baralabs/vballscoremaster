@@ -5,6 +5,22 @@ include_in_header: true
 ---
 
 ### `Latest`
+# **Version 4.4** <br>
+
+#### What's New
+Several improvements have been made in this version:
+- Updated the app and squashed some bugs, it should run faster on the newer iPhones & iPads
+
+<br>
+
+# **Version 4.3** <br>
+
+#### What's New
+Several improvements have been made in this version:
+- Updated to include all privacy features available in iOS 14. BaraLabs does NOT track you! We value your privacy as much as you do and we would never violate the trust you've given to us. This version includes all the features you've come to love in Ball ScoreMaster with a focus on user privacy and ease of use.
+
+<br>
+
 # **Version 4.2** <br>
 
 **All new support for iOS 13!**
